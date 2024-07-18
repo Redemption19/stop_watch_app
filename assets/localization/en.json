@@ -1,0 +1,7 @@
+{
+    "appTitle": "StopWatch App",
+    "start": "Start",
+    "pause": "Pause",
+    "reset": "Reset",
+    "lap": "Lap n°"
+  }  
